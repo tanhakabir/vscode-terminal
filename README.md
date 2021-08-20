@@ -17,6 +17,7 @@ From v0.0.4, this extension will have limited updates for bug fix or feature dev
 * View output in Output Window
 * Open Integrated Terminal at current file's directory
 * Quick way to toggle Integrated Terminal
+* Testing
 
 ## Usages
 
